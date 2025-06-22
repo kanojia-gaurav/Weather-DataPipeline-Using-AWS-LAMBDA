@@ -1,6 +1,6 @@
 # Weather-DataPipeline-Using-AWS-LAMBDA
 
-# Layer
+## Layer
 ```
 mkdir requests_layer
 pip install requests -t requests_layer/
@@ -17,3 +17,6 @@ requests_layer.zip
     └── certifi/
 
 ```
+## Output 
+![Output](1.png)
+![Output2](2.png)
